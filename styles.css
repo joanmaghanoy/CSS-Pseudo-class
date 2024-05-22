@@ -9,6 +9,9 @@ header {
     color: #f3e5fe;
     padding: 20px;
 }
+main {
+    padding: 0;
+}
 button:hover {
     background-color: #49036a;
 }
