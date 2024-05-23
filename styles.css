@@ -19,7 +19,7 @@ button:active {
     font-size: 1.2em;
     color: #ba68d7;
 }
-button, input {
+input {
     display: block;
     margin: 10px auto;
     padding: 10px 20px;
